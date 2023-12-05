@@ -1,0 +1,15 @@
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Dathuc\bin\Debug\net7.0\Dathuc.exe
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Dathuc\bin\Debug\net7.0\Dathuc.deps.json
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Dathuc\bin\Debug\net7.0\Dathuc.runtimeconfig.json
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Dathuc\bin\Debug\net7.0\Dathuc.dll
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Dathuc\bin\Debug\net7.0\Dathuc.pdb
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Dathuc\obj\Debug\net7.0\Dathuc.csproj.AssemblyReference.cache
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Dathuc\obj\Debug\net7.0\Dathuc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Dathuc\obj\Debug\net7.0\Dathuc.AssemblyInfoInputs.cache
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Dathuc\obj\Debug\net7.0\Dathuc.AssemblyInfo.cs
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Dathuc\obj\Debug\net7.0\Dathuc.csproj.CoreCompileInputs.cache
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Dathuc\obj\Debug\net7.0\Dathuc.dll
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Dathuc\obj\Debug\net7.0\refint\Dathuc.dll
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Dathuc\obj\Debug\net7.0\Dathuc.pdb
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Dathuc\obj\Debug\net7.0\Dathuc.genruntimeconfig.cache
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Dathuc\obj\Debug\net7.0\ref\Dathuc.dll

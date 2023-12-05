@@ -1,0 +1,15 @@
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Matran\bin\Debug\net7.0\Matran.exe
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Matran\bin\Debug\net7.0\Matran.deps.json
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Matran\bin\Debug\net7.0\Matran.runtimeconfig.json
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Matran\bin\Debug\net7.0\Matran.dll
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Matran\bin\Debug\net7.0\Matran.pdb
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Matran\obj\Debug\net7.0\Matran.csproj.AssemblyReference.cache
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Matran\obj\Debug\net7.0\Matran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Matran\obj\Debug\net7.0\Matran.AssemblyInfoInputs.cache
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Matran\obj\Debug\net7.0\Matran.AssemblyInfo.cs
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Matran\obj\Debug\net7.0\Matran.csproj.CoreCompileInputs.cache
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Matran\obj\Debug\net7.0\Matran.dll
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Matran\obj\Debug\net7.0\refint\Matran.dll
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Matran\obj\Debug\net7.0\Matran.pdb
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Matran\obj\Debug\net7.0\Matran.genruntimeconfig.cache
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Matran\obj\Debug\net7.0\ref\Matran.dll

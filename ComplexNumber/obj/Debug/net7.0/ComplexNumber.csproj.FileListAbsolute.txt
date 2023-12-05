@@ -1,0 +1,15 @@
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\ComplexNumber\bin\Debug\net7.0\ComplexNumber.exe
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\ComplexNumber\bin\Debug\net7.0\ComplexNumber.deps.json
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\ComplexNumber\bin\Debug\net7.0\ComplexNumber.runtimeconfig.json
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\ComplexNumber\bin\Debug\net7.0\ComplexNumber.dll
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\ComplexNumber\bin\Debug\net7.0\ComplexNumber.pdb
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\ComplexNumber\obj\Debug\net7.0\ComplexNumber.csproj.AssemblyReference.cache
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\ComplexNumber\obj\Debug\net7.0\ComplexNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\ComplexNumber\obj\Debug\net7.0\ComplexNumber.AssemblyInfoInputs.cache
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\ComplexNumber\obj\Debug\net7.0\ComplexNumber.AssemblyInfo.cs
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\ComplexNumber\obj\Debug\net7.0\ComplexNumber.csproj.CoreCompileInputs.cache
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\ComplexNumber\obj\Debug\net7.0\ComplexNumber.dll
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\ComplexNumber\obj\Debug\net7.0\refint\ComplexNumber.dll
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\ComplexNumber\obj\Debug\net7.0\ComplexNumber.pdb
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\ComplexNumber\obj\Debug\net7.0\ComplexNumber.genruntimeconfig.cache
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\ComplexNumber\obj\Debug\net7.0\ref\ComplexNumber.dll

@@ -1,0 +1,15 @@
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Employee\bin\Debug\net7.0\Employee.exe
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Employee\bin\Debug\net7.0\Employee.deps.json
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Employee\bin\Debug\net7.0\Employee.runtimeconfig.json
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Employee\bin\Debug\net7.0\Employee.dll
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Employee\bin\Debug\net7.0\Employee.pdb
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Employee\obj\Debug\net7.0\Employee.csproj.AssemblyReference.cache
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Employee\obj\Debug\net7.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Employee\obj\Debug\net7.0\Employee.AssemblyInfoInputs.cache
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Employee\obj\Debug\net7.0\Employee.AssemblyInfo.cs
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Employee\obj\Debug\net7.0\Employee.csproj.CoreCompileInputs.cache
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Employee\obj\Debug\net7.0\Employee.dll
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Employee\obj\Debug\net7.0\refint\Employee.dll
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Employee\obj\Debug\net7.0\Employee.pdb
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Employee\obj\Debug\net7.0\Employee.genruntimeconfig.cache
+C:\Users\Hung Anh\OneDrive\Máy tính\Hướng đối tượng\TH1\Employee\obj\Debug\net7.0\ref\Employee.dll
